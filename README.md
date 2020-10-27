@@ -1,6 +1,6 @@
 ![The Feynman Journal logo](images/the_feynman_journal_logo.png)
 
-This repository contains the source code for visualizations in [The Feynman Journal](https://medium.com/the-feynman-journal). One such visualization is the following, which shows how a neural network separates data using nonlinear activations:
+This repository contains the source code for visualizations in [The Feynman Journal](https://www.notion.so/Deep-Learning-Explained-Visually-f7f3ba00be894e6a9f99857bfa26da6b). One such visualization is the following, which shows how a neural network separates data using nonlinear activations:
 
 ![MLP nonlinear](images/mlp_nonlinear.gif)
 
