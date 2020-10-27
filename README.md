@@ -4,4 +4,8 @@ This repository contains the source code for visualizations in [The Feynman Jour
 
 ![MLP nonlinear](images/mlp_nonlinear.gif)
 
+Here's another visualization, which demonstrates how the chain rule works:
+
+![Chain rule](images/chain_rule.gif)
+
 Most of the code is written in [Julia](https://julialang.org/) notebooks, as Julia is ideal for creating informative animations.
